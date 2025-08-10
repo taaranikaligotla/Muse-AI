@@ -41,8 +41,9 @@ Look what MUSE AI does:
 https://drive.google.com/file/d/1I5PUjhWbFGQzwVZ3mnwr8whaL-w8whIY/view?usp=sharing
 https://drive.google.com/file/d/1VSK4BXUIsVOZy0pyrgQ7b_ILBq0cyPWn/view?usp=sharing
 
-Future Enhancements
-🎨 Better UI with animated transitions
-🎤 Voice mood input
-📱 Mobile-first redesign
-🔗 Direct links to recommendations
+**Future Enhancements**
+
+-🎨 Better UI with animated transitions
+-🎤 Voice mood input
+-📱 Mobile-first redesign
+-🔗 Direct links to recommendations
