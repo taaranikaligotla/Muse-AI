@@ -43,7 +43,7 @@ https://drive.google.com/file/d/1VSK4BXUIsVOZy0pyrgQ7b_ILBq0cyPWn/view?usp=shari
 
 **Future Enhancements**
 
--🎨 Better UI with animated transitions
--🎤 Voice mood input
--📱 Mobile-first redesign
--🔗 Direct links to recommendations
+- 🎨 Better UI with animated transitions
+- 🎤 Voice mood input
+- 📱 Mobile-first redesign
+- 🔗 Direct links to recommendations
